@@ -1,6 +1,6 @@
 export default function SetupPage() {
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col items-center py-12 px-6">
+    <div className="min-h-screen bg-gray-100 flex flex-col items-center py-12 px-6 hardikchauhan">
       <div className="max-w-3xl w-full bg-white p-8 rounded-lg shadow-md border border-gray-300 overflow-y-auto h-[90vh]">
         <div className="max-w-3xl bg-white p-8 rounded-lg shadow-md border border-gray-300">
           <h1 className="text-3xl font-bold text-gray-900 mb-6">🛠️ Prisma Postgres Setup Guide</h1>
